@@ -1,5 +1,3 @@
-V01000607
-A01
 Carter Cranston
 
 Calling 
