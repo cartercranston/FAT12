@@ -1,5 +1,3 @@
-Carter Cranston
-
 Calling 
     $ make
 will compile my code into four executables: diskinfo, disklist, diskget, and diskput.
